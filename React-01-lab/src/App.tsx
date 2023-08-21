@@ -20,9 +20,7 @@ function App() {
     <Programers name={'Sarah'} proLang={'Swift, C#'} exYear={8} compName={'QWE'} ></Programers> 
 
     </div>
-    </div>
-    
-        
+    </div> 
     </>
   )
 }
